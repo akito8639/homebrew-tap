@@ -4,6 +4,7 @@ Homebrew casks by akito8639.
 
 ```bash
 brew tap akito8639/tap
+brew trust akito8639/tap
 brew install --cask orbit-for-claude-code
 ```
 
